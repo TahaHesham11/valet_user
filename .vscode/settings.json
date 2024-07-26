@@ -1,0 +1,9 @@
+{
+    "dart.flutterSdkPaths": [
+        "C:\\src\\flutter_windows_3.19.5-stable\\flutter"
+    ],
+    "dart.sdkPaths": [
+        "C:\\src\\flutter_windows_3.19.5-stable\\flutter\\bin\\cache\\dart-sdk"
+    ],
+    "dart.flutterAdbConnectOnChromeOs": false
+}
